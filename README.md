@@ -41,4 +41,4 @@ Check out my Business Website for a closer look at my projects:
 - 🐦 [Twitter](https://twitter.com/adityasingh_off)
 - 📧 [Email](mailto:aditya@ogresto.com)
 - 📝 [LinkedIn](https://www.linkedin.com/in/adityasinghborana/)
-- 📲 [Instagram](https://www.instagram.com/imaditya_singh/) 
+- 📲 [Instagram](https://www.instagram.com/doctor_who_codes/) 
